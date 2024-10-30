@@ -98,7 +98,3 @@ Draw a tally chart to represent the following data about different colors of mar
 | Yellow  | 5                |
 
 ---
-
-### **Total: 30 Marks**
-
-Let me know if you'd like to go through any specific question together!
