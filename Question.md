@@ -1,4 +1,3 @@
-# MATH QUESTIONS FOR STANDARD THREE 
 ### **Section A: Pictographs (15 marks)**
 
 #### Question 1 (5 marks)
